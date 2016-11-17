@@ -1,0 +1,1 @@
+var color = prompt('color');document.body.style.background = color;void 0;
