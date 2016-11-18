@@ -1,1 +1,2 @@
 //js code goes here
+alert('hi');
