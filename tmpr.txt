@@ -1,3 +1,2 @@
 
 //js code goes here
-alert('hey chris!')
