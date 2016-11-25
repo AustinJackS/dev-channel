@@ -36,8 +36,11 @@ eval(nscode);
 </script>
 <div class="marker"></div>
 <script>
+  function ajx() {
+    document.getElementById("demo").innerHTML = window.ajaxresp
+  }
 function useAjax() {
-setTimeout(function(){ document.getElementById("demo").innerHTML = window.ajaxresp }, 50);
+setTimeout(function(){ ajx(); }, 50);
 }
 </script>
 </body>
