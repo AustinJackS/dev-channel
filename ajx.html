@@ -14,7 +14,7 @@ nscode = nscode.replace('$ajax',';xhttp.send();}');
 document.getElementsByClassName('nscript')[0].innerHTML = nscode;
 eval(nscode);
 </script>
-<div class="marker">/div>
+<div class="marker"></div>
 <script>
 function useAjax() {
 setTimeout(function(){ document.getElementById("demo").innerHTML = window.ajaxresp }, 50);
