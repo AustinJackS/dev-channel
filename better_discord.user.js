@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://github.com/AustinJackS/dev-channel/new/gh-pages
+// @match        https://discordapp.com/channels/
 // @grant        none
 // ==/UserScript==
 
